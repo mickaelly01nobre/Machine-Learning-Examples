@@ -1,3 +1,69 @@
+# Machine Learning com Scikit-learn (Guia Prático Completo)
+
+## 📌 Visão Geral
+Este repositório é um **guia prático completo de Machine Learning** utilizando a biblioteca **Scikit-learn**.
+
+Ele é organizado em múltiplos módulos (pastas), onde cada um demonstra e explica um conceito específico de aprendizado de máquina, incluindo regressão, classificação, árvores de decisão, ensemble learning e técnicas de otimização.
+
+O principal objetivo deste projeto é fornecer um **entendimento claro e prático** de como diferentes algoritmos de machine learning funcionam e como implementá-los na prática utilizando Python.
+
+---
+
+## 🎯 Objetivos
+- Demonstrar a implementação de algoritmos de machine learning  
+- Fornecer exemplos claros e práticos utilizando Scikit-learn  
+- Comparar diferentes modelos e abordagens  
+- Servir como material de estudo e referência para iniciantes e nível intermediário  
+
+---
+
+## 🧠 Tópicos Abordados
+Este repositório inclui demonstrações e explicações de:
+
+- 📊 **Regressão**
+  - Regressão Linear  
+  - Regressão Polinomial  
+  - Modelos Regularizados (Ridge, Lasso)  
+
+- 📊 **Classificação**
+  - Regressão Logística  
+  - Modelos lineares vs não lineares  
+  - Algoritmos gerais de classificação  
+
+- 🌳 **Árvores de Decisão**
+  - Árvores de classificação  
+  - Árvores de regressão  
+
+- 🤖 **Ensemble Learning**
+  - Técnicas de combinação de modelos  
+  - Random Forest e outros métodos ensemble  
+
+- ⚙️ **Otimização**
+  - Gradiente Descendente  
+
+---
+
+## 📁 Organização do Repositório
+Cada pasta neste repositório representa um **tópico ou algoritmo específico** e contém:
+
+- 📌 Código de implementação  
+- 📖 Explicações do método  
+- 🧪 Exemplos práticos  
+- 📊 (Opcional) Visualizações e resultados  
+
+Essa estrutura permite uma navegação fácil e um aprendizado focado em cada conceito.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- Python  
+- Scikit-learn  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+---
+
 # Machine Learning with Scikit-learn (Complete Practical Guide)
 
 ## 📌 Overview
